@@ -12,13 +12,15 @@ export default function Home() {
         <SignInButton mode="modal">
           <Button>Sign in</Button>
         </SignInButton>
-
       </SignedOut>
+
       <SignedIn>
         <UserButton />
       </SignedIn>
 
       <ModeToggle />
+
+      <Button variant={"secondary"}>Click me</Button>
       
     </div>
   );
