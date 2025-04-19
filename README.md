@@ -1,36 +1,39 @@
-<h1 align="center">✨ Next.js Full Course - Build a Social App ✨</h1>
+<h1 align="center">✨ Social Media Application with Node.js ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+## 📌 Project Overview
 
-[Watch Full Tutorial on Youtube](https://youtu.be/vUYopHWOURg)
+This is a social media application built with Node.js and modern web technologies. It allows users to post content, follow other users, and interact with a dynamic community.
 
-Highlights:
+## 🚀 Technology Stack
 
-- 🚀 Tech stack: Next.js App Router, Postgres, Prisma, Clerk & TypeScript
-- 💻 Server Components, Layouts, Route Handlers, Server Actions
-- 🔥 loading.tsx, error.tsx, not-found.tsx
-- 📡 API Integration using Route Handlers
-- 🔄 Data Fetching, Caching & Revalidation
-- 🎭 Client & Server Components
-- 🛣️ Dynamic & Static Routes
-- 🎨 Styling with Tailwind & Shadcn
-- 🔒 Authentication & Authorization
-- 📤 File Uploads with UploadThing
-- 🗃️ Database Integration with Prisma
-- 🚀 Server Actions & Forms
-- ⚡ Optimistic Updates
+- **Next.js App Router**: For building the web application with server-side rendering and routing.
+- **Postgres**: Relational database for storing user data, posts, etc.
+- **Prisma**: ORM to interact with the database.
+- **Clerk**: Authentication and user management service for secure login/signup.
+- **TypeScript**: Strongly typed programming language for better maintainability and fewer bugs.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Shadcn**: Custom component library for UI design.
+- **UploadThing**: File uploads handling.
+- **Neon**: Managed PostgreSQL database service for database hosting.
 
-### Setup .env file
+## 📸 Screenshots
 
-```js
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-DATABASE_URL=
-UPLOADTHING_TOKEN=
-```
+Here are some screenshots of the application in action:
 
-### Run the app
+![Screenshot 1](public/Home-page.png)
+*Home page*
 
-```shell
-npm run dev
-```
+![Screenshot 2](public/Profile-page.png)
+*Profile page*
+
+![Screenshot 3](public/Notifications-page.png)
+*Notifications page*
+
+![Screenshot 4](public/Edit-profile-feature.png)
+*Edit profile feature*
+
+![Screenshot 5](public/Dark-mode-home-page.png)
+*Home page - Dark mode*
+
+![Screenshot 6](public/Dark-mode-profile-page.png)
+*Profile page - Dark mode*
