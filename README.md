@@ -4,7 +4,7 @@
 
 This is a social media application built with Node.js and modern web technologies. It allows users to post content, follow other users, and interact with a dynamic community.
 
-## Deployment
+## ☁️ Deployment
 The project is currently deployed on Vercel. Check it out on:
 https://social-media-app-epsilon.vercel.app/
 
