@@ -6,7 +6,7 @@ This is a social media application built with Node.js and modern web technologie
 
 ## Deployment
 The project is currently deployed on Vercel. Check it out on:
-https://socially-media-app-zeta.vercel.app/
+https://social-media-app-epsilon.vercel.app/
 
 ## 🚀 Technology Stack
 
