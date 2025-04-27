@@ -4,6 +4,10 @@
 
 This is a social media application built with Node.js and modern web technologies. It allows users to post content, follow other users, and interact with a dynamic community.
 
+## Deployment
+The project is currently deployed on Vercel. Check it out on:
+https://socially-media-app-zeta.vercel.app/
+
 ## 🚀 Technology Stack
 
 - **Next.js App Router**: For building the web application with server-side rendering and routing.
